@@ -6,10 +6,11 @@
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Adeela Rathore, [email address](21440151@stu.mmu.ac.uk)
+- Emily Dytham, [email address](21441276@stu.mmu.ac.uk)
+- Charlotte Collier, [email address](21441897@stu.mmu.ac.uk)
+- Bianca Houlgrave, [email address](21441491@stu.mmu.ac.uk)
+- Abbie Daly, [email address](22444467@stu.mmu.ac.uk)
 
 ## Assessment overview
 
