@@ -7,7 +7,7 @@
 ### Team members
 
 - Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Emily Dytham, [email address](21441276@stu.mmu.ac.uk)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 
